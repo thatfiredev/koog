@@ -9,7 +9,6 @@ package ai.koog.agents.core.tools.annotations
 @Target(
     AnnotationTarget.PROPERTY,
     AnnotationTarget.CLASS,
-    AnnotationTarget.PROPERTY,
     AnnotationTarget.TYPE,
     AnnotationTarget.VALUE_PARAMETER,
     AnnotationTarget.FUNCTION
